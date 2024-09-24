@@ -4,7 +4,7 @@ export const features = [
     icon: "/images/feature-1.png",
     caption: "Easy integration",
     title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    text: "With Work, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
@@ -15,7 +15,7 @@ export const features = [
     icon: "/images/feature-2.png",
     caption: "Secure & trustworthy",
     title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Work helps keeps your information secure and locked up tighter than Fort Knox.",
     button: {
       icon: "/images/docs.svg",
       title: "Read the docs",
@@ -27,7 +27,7 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "AI automated Work Analysis",
   },
   {
     id: "1",
@@ -37,7 +37,7 @@ export const details = [
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Fast custom workspace",
   },
   {
     id: "3",
@@ -49,13 +49,13 @@ export const details = [
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "How easy is it to setup Work?",
     answer:
       "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Can I integrate Work with other platforms?",
     answer:
       "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
   },
@@ -160,48 +160,48 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
-    role: "Globalnomads",
+    name: "Startups",
+    role: "Entreuprenurship",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
       "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
   },
   {
     id: "1",
-    name: "Mark Erixon",
-    role: "Vid capital intl",
+    name: "Large Coporations",
+    role: "Enterprise",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
       "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
   },
   {
     id: "2",
-    name: "Melanie Hurst",
-    role: "Cyberleap",
+    name: "Cybersecurity",
+    role: "Enterprise",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
       "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
   },
   {
     id: "3",
-    name: "Alicia Barker",
-    role: "Cyberleap",
+    name: "Medical",
+    role: "Enterprise",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
       "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
   },
   {
     id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
+    name: "Education",
+    role: "Enterprise",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
       "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
   },
   {
     id: "5",
-    name: "Jim Bradley",
-    role: "Vid capital intl",
+    name: "Accounting and Legal",
+    role: "Firms",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
       "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",

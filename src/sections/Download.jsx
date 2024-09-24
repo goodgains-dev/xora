@@ -17,7 +17,7 @@ const Download = () => {
                   src="/images/xora.svg"
                   width={160}
                   height={55}
-                  alt="xora"
+                  alt="Work"
                 />
               </div>
 
